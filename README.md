@@ -10,7 +10,7 @@
 
 <p align="center"> I make games in <b>Unity</b> — from tiny 48-hour game jams to slowly-growing passion projects. <br>I love turning stupid ideas into playable experiences. </p>
  
-<p align="center">Currently obsessed with horror games, napping, and making players go "what?".</p>
+<p align="center">Currently obsessed with horror games, napping, and making players go <i>"what?"</i>.</p>
 
 
 <p align="center">
@@ -31,18 +31,12 @@
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub"></code>
 </p>
 
+<h3 align="center"> 🌐 Find Me Around the Web </h3>
+<p align="center">
+  <a href="https://discord.com/users/793122529673871360" title="Add me on Discord!"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
+  <a href="mailto:marvelmakaluwu050405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
 
-<!--
-**JustMarvell/JustMarvell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i> May your builds always compile on the first try! — Thanks for dropping by! ✌️</i>
+</div>
