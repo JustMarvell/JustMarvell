@@ -4,7 +4,7 @@
   <img border-radius=25% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRhYmt1YWdmY2owZHJhaXBkaWEwcnU4YjEzbDFqZnd2MGhiZHFkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S3thLnRWEpRwq6iDIO/giphy.gif" width="400" alt="Coding gif">
 </div>
 
-<h3 align="center"> Indie Game Developer | Unity Enthusiast | Building games and other random stuff </h3>
+<h3 align="center"> Junior Indie Game Developer | Senior Procastinator | Building games and other random stuff </h3>
 
 <br>
 
