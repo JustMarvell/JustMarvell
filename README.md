@@ -8,10 +8,9 @@
 
 <br>
 
-<p align="center"> I make games in <b>Unity</b> — from tiny 48-hour game jams to slowly-growing passion projects. <br>I love turning stupid ideas into playable experiences. </p>
+<p align="center">I make games in <b>Unity</b>, Web in <b>Laravel</b>, Bot with <b>python</b>, and other randomm stuff<br>I love experimenting and learning stuff. From making a hobby project to a passion project. <br>Everything is a project if you have the mindset. </p>
  
-<p align="center">Currently obsessed with horror games, napping, and making players go <i>"what?"</i>.</p>
-
+<p align="center">Currently busy doing nothing, but also busy doing <i>something</i>.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Unity-000000.svg?logo=unity&logoColor=white" />
@@ -22,7 +21,7 @@
   <img src="https://img.shields.io/badge/Status-Making%20games%20%26%20learning%20in%20public-8A2BE2" />
 </p>
 
-<h3 align="center">⚡ Tech & Tools I Use</h3>
+<h3 align="center">Stuff I Use</h3>
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" alt="Unity"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="Blender"></code>
@@ -31,7 +30,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub"></code>
 </p>
 
-<h3 align="center"> 🌐 Find Me Around the Web </h3>
+<h3 align="center">Find Me! </h3>
 <p align="center">
   <a href="https://discord.com/users/793122529673871360" title="Add me on Discord!"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
   <a href="mailto:marvelmakaluwu050405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
